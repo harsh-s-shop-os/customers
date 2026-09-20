@@ -14,7 +14,7 @@ US home-goods business (arcadiahomeinc.com). Arrived from shopos.ai marketing si
 
 ## Lifecycle
 - 2026-01-21 first seen · one person row created 2026-03-19 (identify)
-- Steady return visits Jan → Sep; last seen 2026-09-07
+- Steady return visits Jan → Sep; last seen 2026-09-17 (returned Sep 16–17 after the Sep 7 visit: 5 Space generations completed, 5 executions created, 8 searches)
 - 370 of 2,000 monthly credits remaining on record
 
 ## Usage (lifetime to 2026-09-13)
@@ -25,7 +25,7 @@ US home-goods business (arcadiahomeinc.com). Arrived from shopos.ai marketing si
 - Pricing page views 9 · Upgrade clicks 2 · Checkout started 1 (no completion event; `[Likely]` the yearly purchase itself)
 
 ## Health signal
-Returns and produces. Watch for the monthly cadence breaking (no visit by ~Oct 7 would be the first two-month gap). Nine pricing views is a signal — she wants something the Pro plan doesn't give her, or she's checking what upgrading costs.
+Returns and produces — cadence held again in September, with a second visit on Sep 16–17 producing 5 more generations. Watch for the cadence breaking (no visit by ~mid-October would be the first real gap). Nine pricing views is a signal — she wants something the Pro plan doesn't give her, or she's checking what upgrading costs.
 
 ## Touchpoints
 None recorded.
@@ -50,4 +50,5 @@ None recorded.
 Short email or call before her next expected visit (early October): ask what she makes each month and what's kept her from upgrading.
 
 ## Changelog
+- 2026-09-20 — Re-checked in PostHog: returned Sep 16–17 (5 generations, 5 executions, 8 searches); last seen Sep 17, not Sep 7. Cadence intact.
 - 2026-09-13 — File created from PostHog (Pro Prod) + Sep 11 paying list.

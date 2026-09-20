@@ -18,7 +18,7 @@ Crafeed (crafeed.com), India. Nothing else known here.
 ## Lifecycle
 - 2026-06-20 "Crafeed <> ShopOS" workspace created
 - 2026-07-03 imran@crafeed.com signs up; clicks around Gavin, agent sidebar, templates; 2 onboarding starts, none completed · 07-24 last seen
-- 2026-08-10 imran@shopos.ai signs up · 08-20 invite accepted · 09-11 onboarding completed (brand memory skipped), 2 Cowork messages, batch list viewed · 09-13 last seen
+- 2026-08-10 imran@shopos.ai signs up · 08-20 invite accepted · 09-11 onboarding completed (brand memory skipped), 2 Cowork messages, batch list viewed · 09-16 last seen (118 events across 4 days Sep 13–16, still zero output of any kind)
 
 ## Usage (lifetime to 2026-09-13, both identities)
 - Active days 2 + 8 · Sessions 5 + 26 · Pageviews 25 + 18
@@ -27,7 +27,7 @@ Crafeed (crafeed.com), India. Nothing else known here.
 - Pricing views 0 · Checkout 0 · Purchases 0
 
 ## Health signal
-No output on any surface in ten weeks across two accounts. If $99/mo is being paid, it is being paid for nothing yet.
+No output on any surface in eleven weeks across two accounts. He is still logging in — 4 active days in the week to Sep 16 — and still producing nothing: no generation, no canvas, no publish, no Cowork message since Sep 11. Logging in without output for this long is the clearest `tried-not-getting-value` profile in the base after Sidharth. If $99/mo is being paid, it is being paid for nothing yet.
 
 ## Touchpoints
 None recorded here. The `<> ShopOS` workspace name implies a partnership or managed relationship with someone at ShopOS.
@@ -51,4 +51,5 @@ None recorded here. The `<> ShopOS` workspace name implies a partnership or mana
 Ask in Slack who owns Crafeed; until answered, keep the tag provisional.
 
 ## Changelog
+- 2026-09-20 — Re-checked in PostHog: imran@shopos.ai last seen Sep 16 (not Sep 13), 118 events over 4 days, still zero output on every surface. Lifecycle and Health signal updated.
 - 2026-09-13 — File created from PostHog (Pro Prod) + Sep 11 paying list.

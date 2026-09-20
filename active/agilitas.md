@@ -25,7 +25,8 @@ Agilitas Sports — Indian sportswear group (Lotto and One8 licences are the two
 - 2025-11-14 first seats (ananya, saurabh) · steady seat additions through Mar 2026
 - 2026-03-04 / 03-14 Custom Growth Plan rows appear (geethika, richa)
 - 2026-08-03 nayantara `subscription_purchase_completed` · 2026-08-25 nayantara `topup_purchase_completed` (the only top-up in the whole base)
-- 2026-09-10 "$199/mo retainer" per Sep 11 list · 2026-09-13 amit last seen
+- 2026-09-10 "$199/mo retainer" per Sep 11 list
+- **2026-09-13 → 09-20:** amit active 7 of 8 days (last seen Sep 20) with **173 Space generations and 173 executions in that week alone**, and — notably — **zero `out_of_credits` events**, the first clean week on record for him. vivek.chethan active 2 days. Every other seat silent.
 
 ## Usage (lifetime to 2026-09-13, top seats)
 | Seat | Active days | Space gens | Canvas runs | Notable |
@@ -39,7 +40,7 @@ Agilitas Sports — Indian sportswear group (Lotto and One8 licences are the two
 | mashood.mubarak | 23 | 2 | 1 | onboarding completed |
 
 ## Health signal
-Volume is not the risk. Credit friction is: Amit alone has hit `out_of_credits` 28 times — the plan attached to the heaviest seat is too small. Also watch seat consolidation: roughly half the seats have been dormant since Q1; the active core is ~5 people.
+Volume is not the risk. Credit friction is: Amit alone has hit `out_of_credits` 28 times — the plan attached to the heaviest seat is too small. He ran 173 generations in the week to Sep 20 without tripping it once, which either means the Sep 10 retainer raised his ceiling or he is pacing himself; worth knowing which, because they imply opposite actions. Also watch seat consolidation: roughly half the seats have been dormant since Q1; the active core is ~5 people.
 
 ## Touchpoints
 None recorded in this workspace. Nayantara appears to handle billing (purchase + top-up). Relationship owner at ShopOS unknown here.
@@ -63,4 +64,5 @@ None recorded in this workspace. Nayantara appears to handle billing (purchase +
 Get the contract structure from whoever owns this account and correct the roster line; then flag Amit's credit exhaustion to that owner as an upsell/plan-fit conversation.
 
 ## Changelog
+- 2026-09-20 — Re-checked in PostHog: amit still the engine (173 generations Sep 13–20, last seen Sep 20) and no `out_of_credits` in that window; vivek active 2 days; all other seats silent. Lifecycle and Health signal updated.
 - 2026-09-13 — File created from PostHog (Pro Prod) + Sep 11 paying list.

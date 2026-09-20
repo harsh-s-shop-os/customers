@@ -25,6 +25,7 @@ Indian baby-products brand (rforrabbit.com). Retainer: 3 months, $3,825 paid upf
 - 2026-08-24 → 08-26 three more seats join within 48 hours
 - 2026-09-08 "R for Rabbit Internal" workspace created · 2026-09-11 fifth seat
 - All five seats active in the week of Sep 8–12
+- **2026-09-13 → 09-20:** four seats still active (binjal Sep 19, yatin Sep 19, harshini Sep 14, ronak Sep 14) but **productteam — the 98-canvas-run seat — has not been seen since Sep 12**, and there were **zero canvas workflow runs across all five seats** in that week. The remaining activity is Spaces searching (32 searches, 18 executions created, 0 generations completed).
 
 ## Usage (lifetime to 2026-09-13)
 | Seat | Active days | Canvas runs | Space gens | Other |
@@ -38,7 +39,9 @@ Indian baby-products brand (rforrabbit.com). Retainer: 3 months, $3,825 paid upf
 Canvas-heavy, Spaces-light. No routines, no Creative Director beyond one try.
 
 ## Health signal
-Seats multiplying and each one producing on its own is the strongest retention signal in the base. Watch: retainer end date (3 months from ~late July ≈ late October) and whether canvas runs per seat hold week over week. Because there is no Stripe subscription, **usage decay is the only churn signal you will get.**
+Seats multiplying and each one producing on its own *was* the strongest retention signal in the base. As of 2026-09-20 that signal is bending: canvas — the thing this account actually does — went to zero across every seat for a full week, and the heaviest seat (productteam) went quiet on Sep 12. What's left is search activity without output, which is the §4.1 shape.
+
+Because there is no Stripe subscription, **usage decay is the only churn signal you will get**, and this is it firing. Retainer end is ~late October; a quiet October is how this account ends without anyone being told.
 
 ## Touchpoints
 None recorded in this workspace. Someone at ShopOS negotiated the retainer; owner unknown here.
@@ -63,4 +66,5 @@ None recorded in this workspace. Someone at ShopOS negotiated the retainer; owne
 Find the ShopOS relationship owner and get the retainer end date into this file; then set a weekly glance at canvas runs per seat.
 
 ## Changelog
+- 2026-09-20 — Re-checked in PostHog. productteam silent since 2026-09-12; zero `canvas_workflow_run_started` across all five seats Sep 13–20 while four seats kept searching Spaces. Updated Lifecycle and Health signal — the decay signal this file said to watch for is now firing.
 - 2026-09-13 — File created from PostHog (Pro Prod) + Sep 11 paying list.

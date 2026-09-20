@@ -18,6 +18,7 @@ Small brand (Singapore). Arrived via Google search, direct to app. Completed onb
 - 2026-08-14 first content created, subdomain created, 41 `content_published` events, Creative Director tried (3 generations)
 - 2026-08-21 peak Cowork day · 2026-09-06 pricing page ×4, upgrade button ×2 · 2026-09-12 brand memory purged and regenerated · 2026-09-13 connectors connected (2), last seen 03:52 UTC
 - Renewal on record: 2026-09-13. Remaining monthly credits on record: 0 (see Open questions).
+- **2026-09-13 → 09-20:** active 7 of 8 days, last seen Sep 20. 18 Cowork messages completed, 3 more `content_published` (last Sep 15), 11 Space searches. No lapse, no billing interruption visible.
 
 ## Usage (lifetime to 2026-09-13)
 - Active days 14 · Sessions 44
@@ -31,7 +32,9 @@ Small brand (Singapore). Arrived via Google search, direct to app. Completed onb
 - Pricing views 4 · Upgrade clicks 2 · Dead clicks 308
 
 ## Health signal
-Output every active week via Cowork/publishing; back today. Two things to watch: renewal today with 0 remaining credits (either a reset or she used all 14,000 — very different stories), and the Sep 6 pricing/upgrade clicks (considering Business, or checking what she pays?).
+Output every active week via Cowork/publishing. Still the healthiest genuine self-serve account: a full week past the Sep 13 renewal she is active on 7 of 8 days and still publishing, which is the strongest available evidence the renewal went through cleanly. The 0-remaining-credits reading has not stopped her working, so it was a reset or a reporting artefact, not exhaustion.
+
+One thing left to watch: the Sep 6 pricing/upgrade clicks (considering Business, or checking what she pays?).
 
 ## Touchpoints
 None recorded. No known call or Slack contact.
@@ -45,7 +48,7 @@ None recorded. No known call or Slack contact.
 ## Open questions
 **To check in data**
 - Did she consume all 14,000 credits (renewal reset) or does `remainingMonthlyCredits = 0` mean something else? Needs billing side.
-- Did the renewal payment succeed on Sep 13? Watch `#plg-plan-updates-prod`.
+- ~~Did the renewal payment succeed on Sep 13?~~ Effectively answered: continuous activity and publishing through Sep 20. Confirm in Stripe only if the exact amount matters.
 - What are the 41 published items — what agent/surface produced them?
 - What did the 3 connector failures on Aug 13 try to connect?
 
@@ -56,7 +59,8 @@ None recorded. No known call or Slack contact.
 - What does Jessica do in the account?
 
 ## Next action
-Confirm the Sep 13 renewal went through, then book a 20-minute call — she's the customer most likely to tell you what a working PLG experience looks like.
+Book a 20-minute call — she's the customer most likely to tell you what a working PLG experience looks like.
 
 ## Changelog
+- 2026-09-20 — Re-checked in PostHog: active 7 of 8 days since renewal, 18 Cowork messages, 3 more published items, last seen Sep 20. Renewal question closed on behavioural evidence; Health signal and Next action updated.
 - 2026-09-13 — File created from PostHog (Pro Prod) + Sep 11 paying list.
